@@ -3,10 +3,10 @@
 </p>
 
 <h1 align="center">SALT2</h1>
-<p align="center"><b>人類史を前進させる</b></p>
+<p align="center"><b>ADVANCE HUMAN HISTORY - 人類史を前進させる</b></p>
 
 ## 🌟 ミッション
-SALT2は、AI時代に社会へのインパクトを最大化させます
+SALT2は、AI時代に社会へのインパクトを最大化させることを目指します
 
 ## 💼 提供サービス
 - 🤖 AIエージェント開発
